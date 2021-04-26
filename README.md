@@ -6,5 +6,5 @@ Currently, the code is provisioned to run locally in a development environment. 
 Future changes include:
 1.	Building a production app on Heroku, Azure and/or AWS
 2.	Modifying the cities database to go beyond South Africa ( would definitely require more resources)
-3.	Improving the Capability of the ‘awg.py’ functions
+3.	Improving the capability of the ‘awg.py’ functions
 4.	Creating a DASH dashboard with proper frontend styling.
