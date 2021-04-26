@@ -1,6 +1,6 @@
 __pycache__
-main.py
-weather_df.csv
 venv
 static
-template
+templates
+config.ini
+.idea
